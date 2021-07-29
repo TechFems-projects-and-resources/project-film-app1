@@ -16,13 +16,13 @@ function Films() {
 
   return (
     <div>
-      <div className="list-container">
-        <div className="list-card">
+      <div className="page-container">
+        <div className="list-container">
           {films
             .map((film) => (
-              <div className="item" key={film.title}>
+              <div className="list-item" key={film.title}>
                 <h3>{film.title}</h3>
-                <div className="details">
+                <div className="item-details">
                   <p>Director: {film.director}</p>
                   <p>Producer: {film.producer}</p>
                   <p>Release date: {film.release_date}</p>
