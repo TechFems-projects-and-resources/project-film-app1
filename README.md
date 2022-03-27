@@ -14,7 +14,7 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 
 ---
 
-### For starters
+### For starters: level 1
 
 **Steps:**  
 
@@ -29,7 +29,7 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 
 ---
 
-### For more advanced students
+### For more advanced students: level 2 (first part)
 
 **Basic project:**  
 
@@ -45,7 +45,7 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 
 ---
 
-### For graduates
+### For graduates: level 2 (second part)
 
 **Full project:**
 
@@ -62,7 +62,7 @@ Note: the basic CSS code has been created in the `index.css` file. Don't forget 
 
 ---
 
-### .... and for an extra challenge!
+### .... and for an extra challenge! level 3
 
 <img src="/extra_filmlist.png" width="380" />       <img src="/extra_filmlist_details.png" width="380" />  
 
